@@ -87,17 +87,31 @@ height: 5px;
 
 }
 
+.orange:hover {
+background-color: red;
+color: black;   
+}
+
 .blue {
 color: white;
 background-color: #5ED3EB;
 padding: 4px;
 }
 
+.blue:hover{
+background-color: blue;
+color: black;    
+}
+
 .yellow {
 color: white;
 background-color: #FFCD69;
 padding: 4px;
+}
 
+.yellow:hover{
+background-color: yellow; 
+color: black;   
 }
 
 p {
